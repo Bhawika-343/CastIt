@@ -11,11 +11,15 @@ Designed with an aesthetic, premium UI, CastIt provides a robust and secure way 
 #### Dashboard
 ![Dashboard Screenshot](./assets/dashboard.png)
 
+#### Registration Page
+![Register Screenshot](./assets/register.png)
+
 #### Login Page
 ![Login Screenshot](./assets/login.png)
 
-#### Registration Page
-![Register Screenshot](./assets/register.png)
+#### Create Poll Page
+![Create Poll Screenshot](./assets/create_poll.png)
+
 
 ## Features
 
